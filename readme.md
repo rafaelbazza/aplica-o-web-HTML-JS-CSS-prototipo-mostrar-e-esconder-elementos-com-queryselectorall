@@ -1,0 +1,2 @@
+Neste projeto desenvolvo um protótipo, com o fim de desenvolver uma aplicação web onde botões em um menu possa selecionem um grupo especificos de elementos que possam aparecer na tela e um grupo para esconder. 
+No projeto original a quantidade de elementos é muito maior e já estou buscando solulções melhores. Mas essa aqui é funcional para poucos elementos, como nesse caso que são 5. 
